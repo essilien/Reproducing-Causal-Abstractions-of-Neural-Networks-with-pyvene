@@ -1,0 +1,12 @@
+{
+  "emb_dim": 64,
+  "h_dim": 64,
+  "initializer_range": 0.02,
+  "model_type": "bilstm_nli",
+  "n_labels": 3,
+  "n_layer": 2,
+  "pad_token_id": 0,
+  "pdrop": 0.1,
+  "transformers_version": "5.12.1",
+  "vocab_size": 673
+}
